@@ -13,3 +13,5 @@
 * remote 
 * rebase 
 * Creado por el EHD Team
+* Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
