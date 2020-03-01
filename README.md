@@ -11,4 +11,5 @@
 * add
 * commit
 * remote 
+* rebase 
 
